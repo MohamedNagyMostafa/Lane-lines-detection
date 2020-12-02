@@ -30,8 +30,6 @@ To encounter these conditions, the project has the following steps:-
 
 ### Reflection
 
-### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
-
 My pipeline consists of five steps, the first step is to extract almost White and Yellow lane lines from the image under the three conditions. To do so, I have visualized each channel in the RGB & HSV channels for each condition as shown below.
 
  ![Figure_1 all channels](https://user-images.githubusercontent.com/20774864/100884070-b5493500-34b9-11eb-9c14-d151791a6624.png)
